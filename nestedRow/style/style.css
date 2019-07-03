@@ -1,0 +1,22 @@
+.sideBar{
+	margin: 5px 0px; 
+	min-height: 150px;
+	background-color: silver;
+	text-align: center;
+	font-size: large;
+}
+.mainContain{
+	margin: 5px 0px;
+	min-height: 310px;
+	background-color: silver;
+	text-align: center;
+	font-size: large; 
+}
+
+.txt{
+  text-align: center;
+}
+
+.coustomDiv{
+   min-height: 188px;
+}
